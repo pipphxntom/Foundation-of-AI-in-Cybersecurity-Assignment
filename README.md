@@ -2,7 +2,7 @@
 
 **Course:** AI in Cyber Security Lab (ENSP355)  
 **Assignment:** End-to-End Mini Project – Foundations of AI in Cyber Security  
-**Student:** [Your Name]  
+**Student:** Shwetank Pandey (2301420042)  
 **University:** K.R. Mangalam University  
 
 ## Overview
